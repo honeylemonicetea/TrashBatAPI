@@ -1,5 +1,5 @@
 {
-    "dark-aeth": {
+    "dark-aeth": [{
       "clothes":
       [
         {
@@ -623,5 +623,5 @@
           "trailerURL": "https://www.youtube.com/embed/SxEqB--5ToI"
         }
       ]
-    }
+    }]
 }
