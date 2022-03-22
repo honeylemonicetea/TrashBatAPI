@@ -570,7 +570,7 @@
           "id": 13,
           "title": "The Nightmare Before Christmas",
           "year": "1993",
-          "genre": "AnimationFamilyFantasyMusical",
+          "genre": "Animation, Family, Fantasy, Musical",
           "cast": "Danny Elfman (voice), Chris Sarandon (voice), Catherine O'Hara (voice)",
           "director": "Henry Selick",
           "poster": "https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_.jpg",
@@ -621,6 +621,240 @@
           "still3": "https://m.media-amazon.com/images/M/MV5BMTg4OTQxMDE2MV5BMl5BanBnXkFtZTgwMzU5NTY3ODE@._V1_.jpg",
           "summary": "A newcomer to a Catholic prep high school falls in with a trio of outcast teenage girls who practice witchcraft, and they all soon conjure up various spells and curses against those who anger them.",
           "trailerURL": "https://www.youtube.com/embed/SxEqB--5ToI"
+        }
+      ],
+      "books":[
+        {
+          "id": 1,
+          "title": "The Castle of Otranto",
+          "year": "1764",
+          "author": "Horace Walpole",
+          "summary": "First published in 1764, The Castle of Otranto is widely considered the first Gothic novel, even though it predated Gothic literature's renaissance during the Victorian Era by a century. The Castle of Otranto has it all: In a far-off Medieval realm, an evil prince plans to wed his son's widow, and trap her in his castle",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602624065-51QAA2SUVnL.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Dracula",
+          "year": "1897",
+          "author": "Bram Stoker",
+          "summary": "Dracula, one of the ultimate vampire novels, has lent itself to countless adaptations—precisely, Dr. Ní Fhlainn says, because it's a Gothic novel. Dracula is always talked about by other characters he's come into contact with, but you never fully get to know him, she says. His mysteriousness makes him Gothic; the fact that he's a monster does too.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602623110-41a0o-YNoQL.jpg"
+        },
+        {
+          "id": 3,
+          "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+          "year": "1886",
+          "author": "Robert Louis Stevenson",
+          "summary": "Novels from the Victorian period, like Dr. Jekyll and Mr. Hyde, have defined our idea of the Gothic, even though the genre technically started in the 1760s. Here, the Gothic manifests through the motif of doubling: Everyone has a Dr. Jekyll and Mr. Hyde within them, to a degree.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602623640-519hwV5FTYL.jpg"
+        },
+        {
+          "id": 4,
+          "title": "The Mysteries of Udolpho",
+          "year": "1794",
+          "author": "Ann Radcliffe",
+          "summary": "Ann Radcliffe is considered one of the founders of Gothic fiction, able to infuse scenes with terror and an undeniable allure. The Mysteries of Udolpho, set in a European castle, is one of her most famous works. Jane Austen's Northanger Abbey is a parodic sendup of The Mysteries of Udolpho",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602623767-51CWGvD4-1L.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Northanger Abbey",
+          "year": "1817",
+          "author": "Jane Austen",
+          "summary": "On the surface, Northanger Abbey appears to be a Gothic novel—but it's actually an affectionate and deliberate parody of the novels that were extremely popular at the time of publication. Catherine, Northanger Abbey's protagonist, can't get enough of books like Ann Radcliffe's The Mysteries of Udolpho. Austen, ever attuned to social comedy, is also parodying the reader",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602624378-412KU2svW7L.jpg"
+        },
+        {
+          "id": 6,
+          "title": "The Turn of the Screw",
+          "year": "1898",
+          "author": "Henry James",
+          "summary": "Henry James's classic work of psychological horror has inspired many adaptations, including, most recently, Netflix's The Haunting of Bly Manor. The novella follows a governess who accepts a position in a crumbling old house, where she hears ghosts. Reading The Turn of the Screw is a deliberately destabilizing experience—you never quite know who is telling the truth, because the characters don't, either",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602775316-61cSMNVpkUL.jpg"
+        },
+        {
+          "id": 7,
+          "title": "The Fall of the House of Usher and Other Tales",
+          "year": "1839",
+          "author": "Edgar Allan Poe",
+          "summary": "Just uttering Edgar Allan Poe's name conjures up the mood of his best-known short stories, novels, and poems: An undeniable sense of dread. The Fall of the House of Usher is the story of a family's decline due to an ancestral curse",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602783351-51AhBf3zzL.jpg"
+        },
+        {
+          "id": 8,
+          "title": "Jane Eyre",
+          "year": "1847",
+          "author": "Charlotte Brontë",
+          "summary": "The Brontë sisters trail-blazed in the realm of the Gothic novel. Jane Eyre is the story of a quiet but strong-willed young woman who takes a job at a spooky and isolated English manor, where she develops a relationship with its owner. Mr. Rochester has secrets that literally can't stay hidden, and Jane soon learns them",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1594045655-4161bUogT0L.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Wuthering Heights",
+          "year": "1847",
+          "author": "Emily Brontë",
+          "summary": "Brooding, dark, and ultimately unknowable, Heathcliffe of Wuthering Heights is one of the Gothic tradition's quintessential leading men. That's just the start of Wuthering Heights' many Gothic motifs, which also include remote landscapes and storms in the sky and the spirit",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602777549-41dAOQBWAUL.jpg"
+        },
+        {
+          "id": 10,
+          "title": "The Woman in White",
+          "year": "1859",
+          "author": "Wilkie Collins",
+          "summary": "Just try keeping track of the many plot twists in The Woman in White—we dare you. Wilkie Collins's 1859 novel begins when a young man encounters a hapless woman dressed in white on the road, supposedly an escapee from the asylum. The novel reads as Gothic thanks to its suspenseful mood, but the mystery wraps up all of its loose strings.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602777485-510JkaGZ3rL.jpg"
+        },
+        {
+          "id": 11,
+          "title": "Frankenstein",
+          "year": "1818",
+          "author": "Mary Shelley",
+          "summary": "Frankenstein's incredible not only because it's possibly the first real science fiction novel, but because it's a Gothic novel as well, Dr. Reyes says of Mary Shelley's classic book. The characters are striking in their isolation: Frankenstein's monster is condemned to wander alone, and Frankenstein, having banished his progeny, also lost those he loves.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602623954-416QjTxduzL.jpg"
+        },
+        {
+          "id": 12,
+          "title": "The Picture of Dorian Gray",
+          "year": "1890",
+          "author": "Oscar Wilde",
+          "summary": "Dorian Gray has a secret. Though he looks perpetually young and beautiful, a portrait of Dorian in his attic becomes pock-marked with all of his many sins over the years. Dr. Ní Fhlainn cites this as perfect end of the 19th century Gothic novel. Although it's not expressly scary, it's teeming with dread and decadence",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602623736-51x-a7gSRJL.jpg"
+        },
+        {
+          "id": 13,
+          "title": "Rebecca",
+          "year": "1938",
+          "author": "Daphne du Maurier",
+          "summary": "Rebecca is the quintessential Gothic romance, in that it uses a deep emotional connection to our narrator into the dark, dangerous world of Manderley, her new husband's home. Daphne Du Maurier describes Manderley with exquisite language.Landscapes in the Gothic tend to be really important, because they house a secret or a terrible event, says Dr. Ní Fhlainn. That's certainly true of Manderley, Maxim's ancestral home.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602623026-51igGeayphL.jpg"
+        },
+        {
+          "id": 14,
+          "title": "Dragonwyck",
+          "year": "1944",
+          "author": "Anya Seton",
+          "summary": "A bestseller upon its publication in 1944, Dragonwyck is a classic Gothic romance: A guileless young woman falls for a mysterious nobleman who has baggage in the form of a mansion. While Dragonwyck features familiar elements, Anya Seton's intelligent handling of them makes Miranda's journey feel fresh. It's a natural follow-up to Rebecca",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602777327-61xJcB7Q1SL.jpg"
+        },
+        {
+          "id": 15,
+          "title": "The Bloody Chamber: And Other Stories",
+          "year": "1979",
+          "author": "Angela Carter",
+          "summary": "In this acclaimed and daring collection of short stories, Angela Carter amplifies the dark elements already present in classic fairy tales, like Beauty and the Beast, and turns them into works of Gothic feminism. The collection is teeming with Gothic imagery: Castles, moonlight, and dangerous but alluring characters.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602775633-51PUP7ZKZeL.jpg"
+        },
+        {
+          "id": 16,
+          "title": "We Have Always Lived in the Castle",
+          "year": "1962",
+          "author": "Shirley Jackson",
+          "summary": "There's something amiss in We Have Always Lived in the Castle, Shirley Jackson's final novel—but we can't rely on our narrator, Merricat, to tell us what. She and her sister live in a historic mansion (a classic Gothic trope), haunted not by ghosts but by memories",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602624633-51d7CLV0EGL.jpg"
+        },
+        {
+          "id": 17,
+          "title": "Beloved",
+          "year": "1987",
+          "author": "Toni Morrison",
+          "summary": "Toni Morrison's Beloved is a crucial addition to the American Gothic tradition. It rethinks the ghost story through the impact of slavery, Dr. Reyes says. If the Gothic is, fundamentally, about being haunted, then Beloved is Morrison's most Gothic work in which Sethe meets a grown-up incarnation of Beloved, the infant she killed to spare her from experiencing the horrors of slavery",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1599959856-41Rdzbiqh7L.jpg"
+        },
+        {
+          "id": 18,
+          "title": "Mexican Gothic",
+          "year": "2020",
+          "author": "Silvia Moreno-Garcia",
+          "summary": "With Mexican Gothic, Silvia Moreno-Garcia is in conversation with many Gothic motifs, like atmospheric dread and haunted ancestral mansions. The twist? She transposes a genre normally grounded in the English countryside into Mexico in the 1950s, where a girl sets off to rescue her cousin from the family she's married into",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1598014286-51FIj4YAurL.jpg"
+        },
+        {
+          "id": 19,
+          "title": "The Little Stranger",
+          "year": "2018",
+          "author": "Sarah Waters",
+          "summary": "The Little Stranger tracks what happens after a country doctor becomes intimately involved in the lives of the few surviving members of an old aristocratic family in a crumbling house in post-war Britain. Dr. Reyes calls it a quintessential Gothic novel: It's set in an old mansion, the end of that aristocratic line.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602623253-414KSKQj9fL.jpg"
+        },
+        {
+          "id": 20,
+          "title": "Wylding Hall",
+          "year": "2015",
+          "author": "Elizabeth Hand",
+          "summary": "What happens when a British rock band holes up at a possibly haunted old house to record an album, after their lead singer dies? Wylding Hall happens, that's what. Unlike the other books on this list, Wylding Hall is structured as an oral history",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602624413-517GXySIvlL.jpg"
+        },
+        {
+          "id": 21,
+          "title": "In the Dream House: A Memoir",
+          "year": "2019",
+          "author": "Carmen Maria Machado",
+          "summary": "Carmen Maria Machado wrote what might be the first modern Gothic memoir. In the Dream House equates memory with a kind of haunting. Through an innovative framework, Machado unpacks the experience of being in an abusive queer relationship.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1600449839-51ITzTfc7pL.jpg"
+        },
+        {
+          "id": 22,
+          "title": "Things We Lost in the Fire",
+          "year": "2017",
+          "author": "Mariana Enriquez",
+          "summary": "Things We Lost in the Fire is a short story in conversation with magical realism, the Gothic, and Argentinian history. Mariana Enriquez uses black magic, ghosts, demons, and monsters to draw attention to social issues. ",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602624454-51nhIMLI6GL.jpg"
+        },
+        {
+          "id": 23,
+          "title": "Something Wicked This Way Comes",
+          "year": "1962",
+          "author": "Ray Bradbury",
+          "summary": "Young adult readers will be instantly transported by this Ray Bradbury novel, set at an enchanted carnival—and so will adults, for that matter. Like all good Gothic novels, the bulk of Something Wicked This Way Comes takes place in the evening, where the supernatural can sneak in.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602771741-61JPSZXOCFL.jpg"
+        },
+        {
+          "id": 24,
+          "title": "Burnt Offerings",
+          "year": "1973",
+          "author": "Robert Marasco",
+          "summary": "Read enough Gothic novels, and you'll know to avoid offers to stay in beautiful houses that seem too good to be true. Seeking an escape from the city, the family in Burnt Offerings moves to a house in rural New York for a summer. The catch? They have to care for the mysterious old woman who lives there",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602774563-51f7uBKBXVL.jpg"
+        },
+        {
+          "id": 25,
+          "title": "Interview With the Vampire",
+          "year": "1976",
+          "author": "Anne Rice",
+          "summary": "Louis has lived a full life. In fact, he's lived many lifetimes. The vampire looks back on his adventures in this decadent, racy novel by the legendary Anne Rice. As opposed to earlier Gothic books, vampires aren't the villains—they're the morally ambiguous stars of the show. Even as you're afraid of Louis and his evil maker, Lestat, you won't be able to look away",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602774739-51U5LSYpe6L.jpg"
+        },
+        {
+          "id": 26,
+          "title": "Melmoth",
+          "year": "2018",
+          "author": "Sarah Perry",
+          "summary": "Melmoth by Sarah Perry is a brilliant reworking of a classic Gothic novel, Melmoth the Wanderer. The novel is in conversation with the long Gothic tradition that came before it, featuring (fictional) historic texts and a creeping sense of dread, as the novel's protagonist is followed by a character she reads about in a book. ",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602775244-61VAIM8C8lL.jpg"
+        },
+        {
+          "id": 27,
+          "title": "Fledgling",
+          "year": "2005",
+          "author": "Octavia E. Butler",
+          "summary": "With books like Kindred and The Parable of the Sower, Octavia Butler established herself as a master of using science fiction and fantasy to probe at social issues of race, class, and family. Fledgling reworks the vampire—a classic character within Gothic literature. In the book, a 10-year-old with amnesia learns she's a 53-year-old vampire, and has to unearth mysteries buried within her own psyche",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1596054260-513KM8gc4JL.jpg"
+        },
+        {
+          "id": 28,
+          "title": "The House Next Door",
+          "year": "1978",
+          "author": "Anne Rivers Siddons",
+          "summary": "The House Next Door is an addition to the Southern Gothic tradition, set in the American South. The book follows an Atlanta couple who become convinced that the modern, stunning home next door houses an evil energy–and they're powerless to stop its energy from ruining their neighbors' lives. The book is more concerned with social issues and the idea of a good life than hauntings, however.",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1594658522-515uPL9wObL.jpg"
+        },
+        {
+          "id": 29,
+          "title": "The Ancestor",
+          "year": "2020",
+          "author": " Danielle Trussoni",
+          "summary": "Imagine if you found yourself smack dab in the middle of a Gothic novel. That's what happens to Alberta Bert Monte of The Ancestor, when a letter arrives at her doorstop in New York informing her that she's the heir to a castle in Italy. Suddenly, she finds herself traveling to the extremely remote mountain town in Northern Italy where her family is from, and learning the secrets of her lineage. She may have been better off not knowing",
+          "coverURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602785691-51P-mlvkxcL.jpg"
         }
       ]
      } 
